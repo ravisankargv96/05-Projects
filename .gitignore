@@ -1,0 +1,52 @@
+# Python bytecode
+backend/app/__pycache__/
+# backend/app/controller/__pycache__/
+# backend/app/core/__pycache__/
+# backend/app/db/__pycache__/
+# backend/app/services/__pycache__/
+*.py[cod]
+
+# Environment variables
+.env
+
+# Database files
+*.sqlite3
+*.db
+
+# Flask instance folder
+instance/
+
+# Byte-compiled files
+*.pyc
+*.pyo
+*.pyd
+
+# Test and coverage files
+.coverage
+*.cover
+nosetests.xml
+test.xml
+coverage.xml
+*.log
+
+# Pytest
+.cache
+.pytest_cache/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# VS Code settings
+.vscode/
+
+# venv
+backend/venv/
+
+# Other IDEs
+.idea/
+*.swp
+*.swo
+
+# Ignore specific files or directories (example)
+# temp/
+# debug/
