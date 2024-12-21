@@ -1,3 +1,4 @@
+Note: This repo name is a placeholder, change it later
 Instead of generic sql model script, 
 Generate scripts based on above created tables.
 
